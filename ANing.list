@@ -17,7 +17,7 @@ HOST-KEYWORD,lolibrary,ANing
 # > Mercari
 HOST-SUFFIX,mercari.com,ANing
 HOST-SUFFIX,mercari.jp,ANing
-HOST-SUFFIX,mercdn.com,ANing
+HOST-SUFFIX,mercdn.net,ANing
 
 # > ClosetChildon
 HOST-SUFFIX,closetchildonlineshop.com,ANing
