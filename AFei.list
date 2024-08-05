@@ -1,4 +1,18 @@
 # > e-hentai
-HOST-SUFFIX,e-hentai.org,Outside
-HOST-SUFFIX,hath.network,Outside
+HOST-SUFFIX,e-hentai.org,AFei
+HOST-SUFFIX,hath.network,AFei
 
+# > heiliao
+HOST-SUFFIX,18hlw.com,AFei
+
+# > heiliao
+HOST-SUFFIX,h-ciyuan.com,AFei
+
+# > vol.moe
+HOST-SUFFIX,vol.moe,AFei
+
+# > RSS
+HOST-SUFFIX,rsshub-cy.fly.dev,AFei
+
+# > Telegra.gh
+HOST-SUFFIX,telegra.ph,AFei
